@@ -14,11 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 ed9c2926574341d78447d82e03231e676b3c6efb Changes
+SHA1 bdfe54f3852ecc226d124fec3aa48f495bd6a993 Changes
 SHA1 f3296a09eb07898f3ba6dd0ece615dafc1b57e16 LICENSE
-SHA1 71914233c2f2212b98f2bcacc889de55ccb3f35d MANIFEST
-SHA1 bad3aa203318e5f9b269cafbfe93ddbe53e12cfc META.yml
-SHA1 7150e5e086ef493e1e527a1eeec44a8344b80db6 Makefile.PL
+SHA1 be0732dacf36da816b78d31e708be6487e9f75b1 MANIFEST
+SHA1 4b6e389e32dde61374f21a8a84ca1c7de820b816 META.yml
+SHA1 80519f46cf4d005b59c73d680d3f90aef176d9bd Makefile.PL
 SHA1 3d25f43ee71ddfad11a4aa7c8a24686992a80dc6 README
 SHA1 5d94bc10deff1dd74e4bc5dfa6fc015e39271f15 inc/Module/AutoInstall.pm
 SHA1 40106479d4e07f379cb82ca1d69fca92e3a40f47 inc/Module/Install.pm
@@ -35,13 +35,12 @@ SHA1 b86d0385e10881db680d28bde94f275e49e34a27 inc/Module/Install/TrustMetaYml.pm
 SHA1 1326052d1df1065debee74f9d8583a734b9b3d00 inc/Module/Install/Win32.pm
 SHA1 bb607f3715c40fc3bc1c46496587cdb215bc4fa2 inc/Module/Install/WriteAll.pm
 SHA1 26d58a041cd6b3d21db98b32e8fd1841aae21204 inc/Module/Package.pm
-SHA1 ef4c751e6da2367fbf9d0ef365c27d50d6ed3bf9 inc/Module/Package/Dist/RDF.pm
+SHA1 6b807287940754cc31a3db59f2b22e363d5525be inc/Module/Package/Dist/RDF.pm
 SHA1 775bd24f2fdbb6dce51a8b5b0cdb01fccfce83c4 inc/Scalar/Util.pm
 SHA1 b1b664983568bf822c327599eb88e223483ae96a inc/Scalar/Util/PP.pm
 SHA1 eef6bff62046bff2ce08ba132d0b58fba30f40b4 inc/YAML/Tiny.pm
-SHA1 b526160f58a03562738f361878a6e65e3d79796a inc/parent.pm
-SHA1 460a684eeb8ce25b73a9ba4bbff992f149c7b1f1 lib/Number/Natural/SetTheory.pm
-SHA1 0e12973a0c45aaa9bc4305e6a7566611f3ed2209 meta/changes.ttl
+SHA1 a1a021b331545c0183c7dae77e41d48ee53f77e8 lib/Number/Natural/SetTheory.pm
+SHA1 8bdd7ba11b8d623caaa67099e9f4fe596b1b11e9 meta/changes.ttl
 SHA1 be3e96ba119a9108cba67865ff68aba69ba0edd5 meta/doap.ttl
 SHA1 e28f16184fc5ca1b395253796868541d552abf64 meta/makefile.ttl
 SHA1 c28c0a48bd9c451e646882e67858ec31c5093d00 t/01basic.t
@@ -52,7 +51,7 @@ SHA1 0b2ec12d5db0841dd97db06f3c00384a23a059a8 t/05stringification.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAk7WS6cACgkQzr+BKGoqfTkngQCffcLIrCSisI4Fo/Q2QSFWDYFz
-UmoAnjYCQbpSMmyqx1mHoJ1fMSGN+zqE
-=KS1o
+iEYEARECAAYFAk7aCKMACgkQzr+BKGoqfTlYLgCdE5QDTUU+n2bYUFhhrFPAfxRs
+DYsAn1kEbcfT6ktHpIxVPQ+PQKAy83tY
+=AHKJ
 -----END PGP SIGNATURE-----
