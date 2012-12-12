@@ -3,12 +3,13 @@ abstract: 'set-theoretic definition of natural numbers'
 author:
   - 'Toby Inkster <tobyink@cpan.org>'
 build_requires:
-  ExtUtils::MakeMaker: 6.42
+  ExtUtils::MakeMaker: 6.59
   Test::More: 0.61
 configure_requires:
-  ExtUtils::MakeMaker: 6.42
+  ExtUtils::MakeMaker: 6.59
 distribution_type: module
-generated_by: 'Module::Install version 1.02'
+dynamic_config: 0
+generated_by: 'Module::Install version 1.06'
 keywords: []
 license: perl
 meta-spec:
@@ -32,4 +33,4 @@ resources:
   homepage: https://metacpan.org/release/Number-Natural-SetTheory
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-number-natural-settheory
-version: 0.002
+version: 0.003
